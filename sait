@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h2>Погорелец Владислав</h2>
+      <ul>
+        <li>Люблю котов</li>
+        <li>Катаюсь на велике</li>
+        <li>Делаю сайты</li>
+      </ul>
+      
+      <img src="https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRRv9ICxXjK-LVFv-lKRId6gB45BFoNCLsZ4dk7bZpYGblPLPG-9aYss0Z0wt2PmWDb" width="500px" height="250px"/>
+      <img src="https://pickimage.ru/wp-content/uploads/images/detskie/bicycle/velosiped2.jpg" width="500px" height="200px"/>
+      <ul><p> Играю в игры </p>
+      
+      <li> CS:GO </li>
+      <li>Roblox </li>
+      <li>Minecraft</li>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Roblox_Logo_2021.png"height="200px">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_4g6tKrtJLx_xVCRh7xchnMh80tRXO9D9OrnCIU&s"height="200px">
+          <img src="https://www.meme-arsenal.com/memes/0abf04a4447840dc3855f3d5157c5886.jpg"height="200px"
+        
+        </ul>
+    </main>
+    <footer>
+      <a class="social" href="https://youtube.com/@geasdgxdxdxdxdl6733"><img src="https://www.state.gov/wp-content/uploads/2020/07/72-729738_youtube-red-circle-circle-youtube-logo-png-clipart.jpg" width="100px" height="100px"/></a>
+      <a class="social" href="https://vk.com/itsgoogle"><img src="https://mars.algoritmika.org/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+
+    </footer>
+  </body>
+</html>
